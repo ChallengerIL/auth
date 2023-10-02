@@ -1,0 +1,13 @@
+.org-item {
+    background-color: #8ECDDD;
+    border-radius: 5px;
+    color: #fff;
+    margin: 10px;
+    padding: 7px;
+    text-align: center;
+}
+
+.org-item:hover {
+    background-color: #22668D;
+    cursor: pointer;
+}
